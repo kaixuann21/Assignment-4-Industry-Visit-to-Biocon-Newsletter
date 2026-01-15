@@ -1,27 +1,27 @@
-# Assignment-4-Industry-Visit-to-Biocon-Newsletter (Group 7)
-This repository contains a **three-page academic newsletter**.
-The newsletter is about an industrial visit to **Biocon Sdn. Bhd.** that related to biotechnology operations, 
-information systems, and the relevance of bioinformatics in the pharmaceutical industry.
+# Assignment-4-Industry-Visit-to-Biocon-Newsletter 
+The newsletter is about an industry visit to **Biocon Sdn. Bhd.** located in **Iskandar Puteri, Johor** which is a pharmaceutical industry 
+that related to biotechnology operations and information system.
 
-### 📌Assignment Details
-- **Company:** Biocon Sdn. Bhd.
-- **Location:** Iskandar Puteri, Johor
-- **Course:** Technology and Information System (SECP1513)
+**Course:** Technology and Information System (SECP1513)
 
-### 📑 Newsletter Overview
-The newsletter is structured into three main sections:
-1. **Introduction & Company Background**  
-   Overview of Biocon Sdn. Bhd., its biotechnology and insulin manufacturing operations, and its role in the pharmaceutical industry.
-2. **Key Observations & Technical Insights**  
-   Discussion on biotechnology processes, computer-controlled manufacturing systems, data handling, and the integration of information systems.
-3. **Learning Outcomes & Reflection**  
-   Reflection on knowledge gained, skills developed, and the relevance of the visit to bioinformatics studies and future career pathways.
+### 📑 Newsletter Contents
+1. Introduction & Company Background
+2. Key Observations & Technical Insights
+3. Learning Outcomes & Reflection  
+   
+## Reflection
+On 23th December 2025，I felt thrilled to visit Biocon Sdn Bhd in Iskandar Puteri, Johor Bahru, which is a 
+global biopharmaceutical company. It was an amazing experience for me, as it really gave me a direction in my future career paths.
 
-### 🧠 Learning Outcomes
-- Understanding of real-world **biotechnology manufacturing environments**
-- Exposure to **information systems and automation** in the pharmaceutical industry
-- Awareness of how **biology, data, and technology** work together
-- Improved insight into **bioinformatics-related career opportunities**
+During the visit, I was able to learn about the drug product packaging process, which allow me to understand how the 
+pharmaceutical products are produced in a controlled and highly regulated environment. Before entering the lab, visitors were required 
+to wear personal protective equipment (PPE), including a lab coat, head cover, and shoe covers like the staffs. This helped me realised
+the importance of hygiene and safety in pharmaceutical manufacturing. Then, we also visited the cool room with the temperature of around 8°C, 
+and it was extremely cold! 🥶☃️
+Other than that, the staff was very friendly and explained the process clearly as well as answered our questions patiently. 
 
-### 📌 Acknowledgement
-Special appreciation to **Biocon Sdn. Bhd.**, the course lecturers, and organizers for providing the opportunity and guidance for this industrial visit.
+After the visit, I gained a deeper understanding about the importance of biopharmaceuticals in the field of biology. Besides, it was an 
+eye-opening experience that built up my interest in the pharmaceutical and biotechnology industry. My group members and I also do a newsletter 
+about the industry visit to Biocon Sdn Bhd.
+
+I was very grateful for having this opportunity to visit Biocon Sdn Bhd. Thank you to Biocon Sdn Bhd for the great visit session.
