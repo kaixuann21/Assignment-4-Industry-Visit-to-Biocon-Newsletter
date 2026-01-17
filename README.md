@@ -4,6 +4,8 @@ that related to biotechnology operations and information system.
 
 **Course:** Technology and Information System (SECP1513)
 
+**Group:** 7
+
 ### 📑 Newsletter Contents
 1. Introduction & Company Background
 2. Key Observations & Technical Insights
